@@ -18,7 +18,7 @@ public class LoginPage extends BasePage {
 		lp.findElement();
 		lp.clickElement();
 		lp.performCommonTasks();
-		
+	
 	}
 	
 
